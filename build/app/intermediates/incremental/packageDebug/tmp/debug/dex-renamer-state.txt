@@ -1,0 +1,4 @@
+#Thu Sep 21 20:39:36 MSK 2023
+base.0=C\:\\Users\\Rafos\\AndroidStudioProjects\\mos\\geo_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
